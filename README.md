@@ -1,0 +1,1 @@
+# client-generator-with-types
